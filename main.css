@@ -1,0 +1,51 @@
+.appBackground{
+    background-image: url('./images/workoutBackgroundProject.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.appTitle {
+    color: rgb(85, 85, 252);
+    text-shadow: 3px 3px black;
+    border-bottom-color: blanchedalmond;
+    font-family: fantasy;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 4px;
+    word-spacing: 10px;
+}
+
+.textArea1 {
+    text-align: center;
+    margin-left: 25%;
+    background-color: white;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-color: black;
+    border-radius: 15px;
+    border-style: solid;
+    width: 50%;
+}
+
+.dataFields {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+
+}
+
+.button {
+    background-color: mediumseagreen;
+    border: none;
+    border-radius: 15px;
+    width: 100px;
+    height: 50px;
+}
+
+.button:hover {
+    background-color: rgb(18, 133, 70); 
+}
+
+.button:active {
+    background-color: mediumseagreen;
+}
