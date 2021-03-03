@@ -5,10 +5,10 @@
 }
 
 .appTitle {
-    color: rgb(85, 85, 252);
+    color: red;
     text-shadow: 3px 3px black;
     border-bottom-color: blanchedalmond;
-    font-family: fantasy;
+    font-family: cursive;
     display: flex;
     justify-content: center;
     letter-spacing: 4px;
@@ -20,7 +20,7 @@
     margin-left: 25%;
     background-color: white;
     font-weight: bold;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Cursive, Geneva, Tahoma, sans-serif;
     border-color: black;
     border-radius: 15px;
     border-style: solid;
@@ -35,7 +35,7 @@
 }
 
 .button {
-    background-color: mediumseagreen;
+    background-color: red;
     border: none;
     border-radius: 15px;
     width: 100px;
@@ -43,38 +43,38 @@
 }
 
 .button:hover {
-    background-color: rgb(18, 133, 70); 
+    background-color: rgb(124, 10, 10) 
 }
 
 .button:active {
-    background-color: mediumseagreen;
+    background-color: rgb(150, 20, 20);
 }
 nav.mat {
-    border: 4px solid mediumseagreen;
+    border: 4px solid rgb(150, 20, 20);
 }
 li.hot {
-    border: 2px solid red;
+    border: 2px solid rgb(150, 20, 20);
 }
 li.cold {
-    border: 2px solid yellow;
+    border: 2px solid rgb(150, 20, 20);
 }
 li.pit {
-    border: 2px solid brown;
+    border: 2px solid rgb(150, 20, 20);
 }
 li.pot {
-    border: 2px solid purple;
+    border: 2px solid  rgb(150, 20, 20);
 }
 li.shot {
-    border: 2px solid teal;
+    border: 2px solid rgb(150, 20, 20);
 }
 li.how {
-    border: 2px solid royalblue;
+    border: 2px solid rgb(150, 20, 20);
 }
 li.to {
-    border: 2px solid maroon;
+    border: 2px solid rgb(150, 20, 20);
 }
 li.car {
-    border: 2px solid pink;
+    border: 2px solid rgb(150, 20, 20);
 }
 .mat {
     display: flex;
