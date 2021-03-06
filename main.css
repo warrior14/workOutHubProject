@@ -4,6 +4,7 @@
     background-size: 100%;
 }
 
+
 .appTitle {
     color: red;
     text-shadow: 3px 3px black;
@@ -108,9 +109,30 @@ li.car {
 }
 
 #hotter {
-    bottom-margin: 5px;
+    margin-bottom: 5px;
 }
 
 #mealPlanPageBody {
     padding: 5px;
+}
+
+#client1 {
+    /* display: block; */
+    float: left;
+    width: 7%;
+}
+
+#client2 {
+    float: right;
+    width: 7.5%;
+    height: 7%;
+}
+
+#client3 {
+    width: 20%;
+    height: 15%;
+    position: absolute;
+    bottom: 20%;
+    left: 40%;
+
 }
