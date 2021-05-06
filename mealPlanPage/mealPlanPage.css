@@ -43,3 +43,7 @@
     font-size: 25px;
     margin-left: 3%;
 }
+
+#submitButton {
+    padding-top: 13px;
+};
